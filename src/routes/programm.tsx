@@ -60,19 +60,19 @@ const punkte = [
     icon: FlaskConical,
     n: "06",
     t: "Der Mensch ist kein Versuchsobjekt",
-    d: "Wie in Woyzecks Fall klar zu erkennen war, entwickelt sich die Wissenschaft, besonders die Medizin in eine unmenschliche Richtung. Wirtschaftliche Not, darf nicht zur Einwilligung zur Selbstschädigung ausgenutzt werden. Aus diesem Grund setzten wir uns für ein Verbot bezahlter Medizinischer Experimente ohne unabhängige Aufsicht, und strengere Richtlinien für die Wissenschaft ein.",
+    d: "Wie in Woyzecks Fall klar zu erkennen war, entwickelt sich die Wissenschaft, besonders die Medizin in eine unmenschliche Richtung. Wirtschaftliche Not, darf nicht zur Einwilligung zur Selbstschädigung ausgenutzt werden. Aus diesem Grund setzen wir uns für ein Verbot bezahlter Medizinischer Experimente ohne unabhängige Aufsicht, und strengere Richtlinien für die Wissenschaft ein.",
   },
   {
     icon: HeartPulse,
     n: "07",
     t: "Medizinische Versorgung",
-    d: "Wir fordern eine staatliche Krankenkasse, durch die jeder Bürger kostenlosen Zugriff auf Medizinische Versorgung erhält, zusätzlich zu der oben genannten Versicherung gegen Krankheitsbedingte Arbeitsausfälle.",
+    d: "Wir fordern eine staatliche Krankenkasse, durch die jeder Bürger kostenlosen Zugriff auf Medizinische Versorgung erhält, zusätzlich zu der oben genannten Versicherung gegen krankheitsbedingte Arbeitsausfälle.",
   },
   {
     icon: Venus,
     n: "08",
     t: "Gleichstellung der Frau in der Gesellschaft",
-    d: "Wir setzen uns ein für eine Reform des Rechtes, dass es Frauen ermöglicht, selbständig zu Leben und zu arbeiten, und dass die Klassifizierung des „unehelichen“ Kindes ein für alle Mal abschafft. Mehr zu diesem Thema finden sie auch auf der dedizerten Seite zu Frauenrechten.",
+    d: "Wir setzen uns ein für eine Reform des Rechts, dass es Frauen ermöglicht, selbständig zu leben und zu arbeiten, und dass die Klassifizierung des „unehelichen“ Kindes ein für alle Mal abschafft. Mehr zu diesem Thema finden sie auch auf der dedizerten Seite zu Frauenrechten.",
   },
 ]
 
@@ -96,11 +96,11 @@ function Programm() {
             {[
               {
                 t: "Die Gesellschaft straft Armut, statt sie zu beseitigen",
-                d: "Woyzeck und Marie konnten aufgrund ihrer finanziellen Lage nicht heiraten. Ihr Kind war unehelich, nicht aus „Unsittlichkeit“ der Eltern, sondern aus Armut. Die Gesellschaft straft die Folgend der Armut zusätzlich, indem sie den Betroffenen mit Verachtung begegnet, und sie zum eigenen Gunste zusätzlich ausbeutet. Bildung, die häufig für einen Aufstieg notwendig ist, ist ein Privileg, das nur für die bereits Privilegierten zugänglich ist.",
+                d: "Woyzeck und Marie konnten aufgrund ihrer finanziellen Lage nicht heiraten. Ihr Kind war unehelich, nicht aus „Unsittlichkeit“ der Eltern, sondern aus Armut. Die Gesellschaft straft die Folgen der Armut zusätzlich, indem sie den Betroffenen mit Verachtung begegnet, und sie zum eigenen Gunste zusätzlich ausbeutet. Bildung, die häufig für einen Aufstieg notwendig ist, ist ein Privileg, das nur für die bereits Privilegierten zugänglich ist.",
               },
               {
                 t: "Mangelnde Chancen für einen sozialen Aufstieg",
-                d: "Wer Arm geboren wird, stirbt in der Regel auch so. Es gibt keinen Vorgesehenen Weg nach oben. Im Gegenteil. Häufig halten höher Gesellte einen gezielt klein. Wie im Fall von Woyzeck, dessen materielle Not schamlos ausgenutzt, und dessen Beförderung und Anerkennung von der Gunst seiner Vorgesetzten abhingen.",
+                d: "Wer Arm geboren wird, stirbt in der Regel auch so. Es gibt keinen vorgesehenen Weg nach oben. Im Gegenteil. Häufig halten höher Gestellte einen gezielt klein. Wie im Fall von Woyzeck, dessen materielle Not schamlos ausgenutzt, und dessen Beförderung und Anerkennung von der Gunst seiner Vorgesetzten abhingen.",
               },
               {
                 t: "Fehlende soziale und finanzielle Absicherung",
@@ -108,7 +108,7 @@ function Programm() {
               },
               {
                 t: "Die benachteiligte Stellung der Frau",
-                d: "Die Frau ist sowohl sozial als auch finanziell in jeder Hinsicht benachteiligt. Woyzecks Partnerin Marie zum Beispiel, hatte überhaupt keinen rechtlichen Zugang zu Arbeit, ihre einzige Absicherung waren Männer. Der Versuch, die eigene Unabhängigkeit durchzusetzen, endet so nicht nur potenziell in finanzieller Not, sondern wird zusätzlich von der Gesellschaft verächtet. Im Fall von Marie hatte der Versuch, sich aus der männlichen Hierarchie der Unterdrückung, der schon Woyzeck unterlag, zu lösen, ihren Tod zur Folge.",
+                d: "Die Frau ist sowohl sozial als auch finanziell in jeder Hinsicht benachteiligt. Woyzecks Partnerin Marie, zum Beispiel, hatte überhaupt keinen rechtlichen Zugang zu Arbeit, ihre einzige Absicherung waren Männer. Der Versuch, die eigene Unabhängigkeit durchzusetzen, endet so nicht nur potenziell in finanzieller Not, sondern wird zusätzlich von der Gesellschaft verächtet. Im Fall von Marie hatte der Versuch, sich aus der männlichen Hierarchie der Unterdrückung, der schon Woyzeck unterlag, zu lösen, ihren Tod zur Folge.",
               },
             ].map((x, i) => (
               <Reveal key={x.t}>

@@ -21,12 +21,12 @@ const themen = [
     d: "Ohne eigenes Gehalt ist keine Freiheit möglich. Deshalb fordern wir, dass Frauen legal arbeiten, und eigenes Einkommen verdienen dürfen. Ebenso soll ihnen eigenes Eigentum und eine eigene Stimme in der Politik gestattet werden. Besonders setzen wir uns dafür ein, dass Frauen auch das Recht bekommen vor Gericht zu sprechen, um sich gegen Unterdrückung und Verachtung, zu verteidigen, genauso wie wir es auch für Männer vorgesehen haben.",
   },
   {
-    t: "Gesellschaftliche Gelichstellung von Frau und Mann",
+    t: "Gesellschaftliche Gleichstellung von Frau und Mann",
     d: "Die Gesellschaft drängt Frauen in Abhängigkeit und verurteilt sie dann dafür. Wir fordern, dass alleinerziehende Mütter vom Staat unterstützt werden und nicht verurteilt. Frauen haben das Recht auf freie Partnerwahl, wie es Männern offensteht, und das Recht, ein selbstbestimmtes Leben zu führen.",
   },
   {
     t: "Gleiche Maßstäbe für Frau und Mann",
-    d: "Wir fordern gleiche moralische Maßstäbe für Frauen und Männer. Die Gesellschaft verlangt von Frauen Treue und Tugend, oft ohne denselben Maßstab auch an Männer anzulegen. Wie Marie also verurteil und geächtet wurde, so sollte es auch dem Tambourmajor widerfahren sein, oder andersherum. Deshalb setzen wir und dafür ein, dass die gesellschaftliche und gesetzliche Wertung von Untreue, unehelichen Verhältnissen, etc. für Männer und Frauen gleich ausfällt....",
+    d: "Wir fordern gleiche moralische Maßstäbe für Frauen und Männer. Die Gesellschaft verlangt von Frauen Treue und Tugend, oft ohne denselben Maßstab auch an Männer anzulegen. Wie Marie also verurteilt und geächtet wurde, so sollte es auch dem Tambourmajor widerfahren sein, oder andersherum. Deshalb setzen wir uns dafür ein, dass die gesellschaftliche und gesetzliche Wertung von Untreue, unehelichen Verhältnissen, etc. für Männer und Frauen gleich ausfällt....",
   },
 ]
 
@@ -37,7 +37,7 @@ function Frauenrechte() {
         eyebrow="Frauenrechte"
         title="Marie war kein Einzelfall"
         subtitle="
-        Es ist unschwer zu erkennen, dass Frauen in unsere heutige Gesellschaftsordnung benachteiligt sind.
+        Es ist unschwer zu erkennen, dass Frauen in unserer heutigen Gesellschaftsordnung benachteiligt sind.
         Wir beziehen uns zu einem Großteil auf Missstände, die beide Geschlechter in etwa gleich betreffen, doch die Frau ist zusätzlich benachteiligt.
         Auch diesem Thema wollen wir uns mit höchster Dringlichkeit annhemen, weshalb wir ihm eine eigene Seite widmen.
         "
@@ -51,7 +51,7 @@ function Frauenrechte() {
             </h2>
             <div className="mt-6 space-y-4 text-base leading-relaxed text-foreground/85">
               <p>
-                Marie ist jung alleinerziehend mit einem unehrlichen Kind und hat kein eigenes Geld.
+                Marie ist jung alleinerziehend mit einem unehelichen Kind und hat kein eigenes Geld.
                 Sie ist vollständig von Woyzeck abhängig, der selbst kaum über die Runden kommt und
                 sie emotional komplett vernachlässigt. Das ist kein Einzelschicksal. Frauen in
                 unserer Zeit haben schlicht keine andere Wahl. Sie haben kein Recht auf eigenes
@@ -65,13 +65,13 @@ function Frauenrechte() {
                 haben wird.
               </p>
               <p>
-                Danach wird sie von allen verurteilen; Woyzeck, der Hauptmann, die Nachbarinnen.
-                Aber niemand stellt die eigentliche Frage: Was hat die Gesellschaft aus Marie
+                Daraufhin wird sie von allen verurteilt. Woyzeck, der Hauptmann, die Nachbarinnen,
+                aber niemand stellt die eigentliche Frage: Was hat die Gesellschaft aus Marie
                 gemacht, bevor der Tambourmajor überhaupt aufgetaucht ist?
               </p>
               <p>
-                Sie wurde nicht schwach geboren. Sie wurde in Schwäche gezwungen und für ihren
-                Ausbruchsversuch bestraft. Selbst über ihren Tod durfte sie nicht wählen. Im Veruch,
+                Sie wurde nicht schwach geboren, sondern in Schwäche gezwungen und für ihren
+                Ausbruchsversuch bestraft. Selbst ihren Tod durfte sie nicht wählen. Im Versuch,
                 Marie und allen anderen Frauen gerecht zu werden, stellen wir deswegen folgende
                 Forderungen:
               </p>

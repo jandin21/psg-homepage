@@ -5,7 +5,7 @@ export const Route = createFileRoute("/kontakt")({
   head: () => ({
     meta: [
       { title: "Kontakt - PSG" },
-      { name: "description", content: "Nehmen sie Kontak zu uns auf" },
+      { name: "description", content: "Nehmen sie Kontakt zu uns auf" },
     ],
   }),
   component: Kontakt,
@@ -17,7 +17,7 @@ function Kontakt() {
       <PageHero
         eyebrow="Kontakt"
         title="Sprechen sie mit uns"
-        subtitle="Wir freuen uns auf ihre Fragen. Unter den folgenden Addressen sind wir (nicht wirklich) zu erreichen:"
+        subtitle="Wir freuen uns auf ihre Fragen. Unter den folgenden Adressen sind wir (nicht wirklich) zu erreichen:"
       >
         <div className="mt-10 grid max-w-xl gap-4 text-primary-foreground/90">
           <div>

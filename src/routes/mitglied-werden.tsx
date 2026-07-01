@@ -39,7 +39,7 @@ function MitgliedWerden() {
               }}
             >
               <h2 className="font-display text-2xl font-semibold text-foreground">
-                Formular für den Mitgliedschaftsantrag
+                Formular für die Mitgliedschaftsanfrage
               </h2>
               <div className="grid gap-4 sm:grid-cols-2">
                 <div>

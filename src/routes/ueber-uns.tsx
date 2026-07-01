@@ -32,7 +32,7 @@ function UeberUns() {
             </h2>
             <div className="mt-6 space-y-5 text-base leading-relaxed text-foreground/85">
               <p>
-                Am 15. Main 1824 gründeten wir in einer kleinen hessischen Garnisonsstadt die Partei
+                Am 15. Mai 1824 gründeten wir in einer kleinen hessischen Garnisonsstadt die Partei
                 für Soziale Gerechtigkeit (PSG) als Reaktion auf soziale Missstände, welche
                 ultimativ im Mordfall seiner Partnerin durch Franz Woyzeck zusammenliefen. Von
                 diesem Zeitpunkt an haben wir nicht aufgegeben auf unsere Ziele für eine gerechtere
@@ -40,8 +40,8 @@ function UeberUns() {
               </p>
               <p>
                 Die Tat von Woyzeck war sehr einschneidend in das Zusammenleben unseres Dorfes. Doch
-                sie hat uns auch an diverse Missstände errinnert, die wir zuvor nicht wirklich
-                beachtet haben. Die brutale Tat von Woyzeck war es schließlich, die uns edgültig zum
+                sie hat uns auch an diverse Missstände erinnert, die wir zuvor nicht wirklich
+                beachtet haben. Die brutale Tat von Woyzeck war es schließlich, die uns endgültig zum
                 Handeln motiviert hat.
               </p>
             </div>
@@ -94,7 +94,7 @@ function UeberUns() {
               <div className="mt-5 space-y-4 text-base leading-relaxed text-foreground/85">
                 <p>
                   Franz Woyzeck war ein einfacher Soldat. Er lebte mit seiner Partnerin Marie
-                  zusammen, mit der er ein unehrliches Kind hatte. Da sein Lohn als einfacher
+                  zusammen, mit der er ein uneheliches Kind hatte. Da sein Lohn als einfacher
                   Soldat, wie für so viele andere, jedoch nicht ausreichte, um für seine Familie zu
                   sorgen, musste er zusätzlich Nebenjobs annehmen.
                 </p>
@@ -106,13 +106,13 @@ function UeberUns() {
                   Absicherung und mangelnde gesellschaftliche Anerkennung ihn in den Abgrund zogen.
                 </p>
                 <p>
-                  So war z.B. gezwungen, sich bei seinem Doktor unmenschlichen Experimenten zu
+                  So war er z.B. gezwungen, sich bei seinem Doktor unmenschlichen Experimenten zu
                   unterziehen, wobei er sich monatelang nur von Erbsen ernähren durfte. Durch all
                   dies verschlechterte sich sein geistlicher Zustand, den er in seinem Geständnis
                   letztendlich für den Mord verantwortlich machte.
                 </p>
                 <p>
-                  Ob man dies nun glaubt oder nicht, es ist warscheinlich, dass seine Tat durch
+                  Ob man dies nun glaubt oder nicht, es ist wahrscheinlich, dass seine Tat durch
                   soziale Absicherungen, gerechte Entlohnung und einen rechtlichen Schutz vor
                   Ausbeutung und Machtmissbrauch verhindert worden wäre.
                 </p>
@@ -120,11 +120,11 @@ function UeberUns() {
                   Die genannten sozialen Missstände, und viele mehr, betrafen Woyzeck, doch er ist
                   nicht der einzige. Viele andere, unter anderem wir selbst und unser Umfeld,
                   vielleicht auch Sie, sind betroffen. Für diese Menschen wollten wir uns
-                  einsetzten.
+                  einsetzen.
                 </p>
                 <p>
-                  Am 15 Mai 1824 gründeten wir deswegen in unserer kleinen hessischen Garnisonsstadt
-                  offiziell die PSG. Von nun an sind wir auf ihre Unterstützung angewiesen um unsere
+                  Am 15. Mai 1824 gründeten wir deswegen in unserer kleinen hessischen Garnisonsstadt
+                  offiziell die PSG. Von nun an sind wir auf Ihre Unterstützung angewiesen um unsere
                   Vorstellungen zum Ziel zu führen.
                 </p>
               </div>
